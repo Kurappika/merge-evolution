@@ -1,0 +1,5 @@
+{
+  "name": "Merge Evolution",
+  "description": "A relaxing merge puzzle game where players place cute tiles on a grid. When three or more identical tiles connect orthogonally, they merge into a single upgraded tile at the last placed position. Plan your moves carefully to create massive chain reactions and evolve your world!",
+  "requestFramePermissions": []
+}
