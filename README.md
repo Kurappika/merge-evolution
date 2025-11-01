@@ -7,17 +7,12 @@ A relaxing and addictive merge puzzle game where you strategically place tiles t
 *(These are placeholder images to illustrate the game)*
 
 **Main Game Screen**
-
+![Main game view showing the game board on the right and the control panel on the left. The control panel displays the score, next tile, and highest tile achieved.](https://via.placeholder.com/800x450.png?text=Merge+Evolution+Gameplay)
 *The main interface with the game board and control panel.*
 
-<img width="876" height="776" alt="image" src="https://github.com/user-attachments/assets/cbc66fff-ca3a-4fbe-98b7-c85e8905b98c" />
-
-
 **Game Over**
-
+![Game over modal displaying the final score and a 'Play Again' button.](https://via.placeholder.com/800x450.png?text=Game+Over+Screen)
 *The game over screen shows your final score.*
-
-<img width="876" height="776" alt="image" src="https://github.com/user-attachments/assets/1d4bc683-22ce-47cd-af52-41b98ee92c92" />
 
 ## Description
 
